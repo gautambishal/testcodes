@@ -1,0 +1,22 @@
+Human{
+eyes=2;
+ear =2;
+brain =1;
+leg =2;
+
+see(){
+//light enter -> brain process -> understand
+}
+cry(){
+//crying gland -> water
+}
+breathe/main(){
+Humn adam = new Human();
+adam.see();
+HUman eve = new HUman();
+eve.cry();
+}
+
+
+
+}
